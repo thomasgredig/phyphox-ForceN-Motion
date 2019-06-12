@@ -24,3 +24,6 @@ Push the cart and let it slow down
 Cart is pushed, then let slow down for a short while, before it collides with object
 
 ![Cart with collision](graphs/cart-pushNcollision.png)
+
+Here is the y-component (direction of motion of cart):
+![Cart with collision: ay](graphs/cart-pushNcollision-ay.png)
