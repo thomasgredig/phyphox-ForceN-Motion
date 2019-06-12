@@ -13,11 +13,19 @@ The cart is rolling down a slightly inclined plane before hitting the floor.
 
 ![Cart going down hill](graphs/cart-downhill.png)
 
+
+Here is the y-component
+![Cart pushed, then slows](graphs/cart-downhill-ay.png)
+
+
 ## Push and Friction
 
 Push the cart and let it slow down
 
 ![Cart pushed, then slows](graphs/cart-pushFriction1.png)
+
+Here is the y-component
+![Cart pushed, then slows](graphs/cart-pushFriction1-ay.png)
 
 ## Cart has Collision
 
